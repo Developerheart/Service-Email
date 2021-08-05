@@ -30,5 +30,6 @@ spring:
 
 
   rabbitmq:
+
     addresses: amqps://jswtvazi:EaX-IHmraKnzUggiQJLLoe47rXijWua3@elk.rmq2.cloudamqp.com/jswtvazi
-    queue: ServiceEmail
+    queue: serviceEmail
